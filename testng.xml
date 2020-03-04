@@ -1,0 +1,14 @@
+
+<suite name="Suite">
+	<listeners>
+		
+	    <listener class-name="com.mobiltyfon.generic.ExtentReporterNG"></listener>
+	 
+	</listeners>
+	<test name="Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.mobiltyfon.scripts.TestLoginPage" />
+		</classes>
+	</test>
+</suite> 

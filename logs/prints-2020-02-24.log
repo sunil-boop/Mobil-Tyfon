@@ -1,0 +1,10 @@
+22:57:50.586 [main] INFO  com.mobiltyfon.scripts.TestLoginPage - enter the user name successfully
+12:27:37.605 [main] INFO  com.mobiltyfon.scripts.TestLoginPage - LoginPage initialized successfully
+12:27:46.201 [main] INFO  com.mobiltyfon.scripts.TestLoginPage - read the test data from the exel sheet user name
+12:27:46.279 [main] INFO  com.mobiltyfon.scripts.TestLoginPage - read the test data from the excel sheet password
+12:27:52.278 [main] INFO  com.mobiltyfon.scripts.TestLoginPage - enter the user name successfully
+12:45:40.029 [main] INFO  com.mobiltyfon.scripts.TestLoginPage - LoginPage intiailized sucessfully
+12:45:52.121 [main] INFO  com.mobiltyfon.scripts.TestLoginPage - read the test data from the exel sheet username
+12:45:52.229 [main] INFO  com.mobiltyfon.scripts.TestLoginPage - read the test data from the excel sheet password
+12:46:07.079 [main] INFO  com.mobiltyfon.scripts.TestLoginPage - enter the user name sucessfully
+12:46:07.966 [main] INFO  com.mobiltyfon.scripts.TestLoginPage - Enter the password sucessfully

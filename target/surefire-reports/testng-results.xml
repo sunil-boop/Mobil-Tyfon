@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="152745" started-at="2020-02-11T21:31:57 IST" finished-at="2020-02-11T21:34:30 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="152745" started-at="2020-02-11T21:31:57 IST" finished-at="2020-02-11T21:34:30 IST">
+      <class name="com.mobiltyfon.scripts.TestLoginPage">
+        <test-method status="PASS" signature="selectBrowser(java.lang.String)[pri:0, instance:com.mobiltyfon.scripts.TestLoginPage@24a35978]" name="selectBrowser" is-config="true" duration-ms="80069" started-at="2020-02-11T21:31:57 IST" finished-at="2020-02-11T21:33:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBrowser -->
+        <test-method status="PASS" signature="openApplicstion()[pri:0, instance:com.mobiltyfon.scripts.TestLoginPage@24a35978]" name="openApplicstion" is-config="true" duration-ms="29055" started-at="2020-02-11T21:33:17 IST" finished-at="2020-02-11T21:33:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplicstion -->
+        <test-method status="PASS" signature="validLoginPage()[pri:0, instance:com.mobiltyfon.scripts.TestLoginPage@24a35978]" name="validLoginPage" duration-ms="37289" started-at="2020-02-11T21:33:46 IST" finished-at="2020-02-11T21:34:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mobiltyfon.scripts.TestLoginPage@24a35978]" name="tearDown" is-config="true" duration-ms="6269" started-at="2020-02-11T21:34:24 IST" finished-at="2020-02-11T21:34:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mobiltyfon.scripts.TestLoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

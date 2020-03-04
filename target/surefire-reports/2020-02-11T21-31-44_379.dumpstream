@@ -1,0 +1,4 @@
+# Created at 2020-02-11T21:31:46.007
+Boot Manifest-JAR contains absolute paths in classpath 'E:\mobil-tyfon\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
