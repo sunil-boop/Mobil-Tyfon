@@ -45,7 +45,15 @@ public class BaseTest implements IAutoConstant {
 			driver = new FirefoxDriver();
 		}
 	}
+	
+	
+	
+	
+	public void login()
 
+	{
+		System.out.println("new commit");
+	}
 	@BeforeMethod(alwaysRun = true)
 
 	public void openApplicstion() {
